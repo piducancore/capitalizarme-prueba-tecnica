@@ -43,8 +43,8 @@ En algunas ocasiones debe mostrarse un texto que indique la situación en vez de
 Clonar, instalar dependencias y ejecutar
 
 ```bash
-git clone https://github.com/piducancore/mindicador-app
-cd mindicador-app
+git clone https://github.com/piducancore/capitalizarme-prueba-tecnica
+cd capitalizarme-prueba-tecnica
 npm install
 npm start
 ```
